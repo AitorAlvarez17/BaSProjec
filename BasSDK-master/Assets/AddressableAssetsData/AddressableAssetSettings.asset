@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: 34ff14d658fa3c54aba126157fdc6701
+  m_DefaultGroup: 2c81771807886844fba088b38aa79dad
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -27,7 +27,7 @@ MonoBehaviour:
   m_StripUnityVersionFromBundleBuild: 1
   m_DisableVisibleSubAssetRepresentations: 0
   m_ShaderBundleNaming: 2
-  m_ShaderBundleCustomNaming: Barbarian
+  m_ShaderBundleCustomNaming: Bic4Colors
   m_MonoScriptBundleNaming: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
@@ -36,7 +36,7 @@ MonoBehaviour:
     m_Id: f0d6e0cdd8192a84f819089abb779b64
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 2
-  m_overridePlayerVersion: Barbarian
+  m_overridePlayerVersion: Bic4Colors
   m_GroupAssets:
   - {fileID: 11400000, guid: fbe88945f5fd22549a3b2283780ee7c2, type: 2}
   - {fileID: 11400000, guid: c7693ad59ef250341800b9d966602e73, type: 2}
@@ -50,6 +50,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4a627bf35ba6b9c49ab7ec8cf694db17, type: 2}
   - {fileID: 11400000, guid: 7d0e6a5d04ec6de4f84b36765551dbae, type: 2}
   - {fileID: 11400000, guid: 7d0ee90c2cabe9b409539a8a9951b47d, type: 2}
+  - {fileID: 11400000, guid: 44531db37b1f8e240aca2108a56cdcda, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -64,7 +65,7 @@ MonoBehaviour:
       - m_Id: ce15733c007f6d84a9cd434894e23ab1
         m_Value: '[ThunderRoad.AssetBundleBuilder.assetsLocalPath]'
       - m_Id: f0d6e0cdd8192a84f819089abb779b64
-        m_Value: '{ThunderRoad.FileManager.aaModPath}/Barbarian'
+        m_Value: '{ThunderRoad.FileManager.aaModPath}/Bic4Colors'
       - m_Id: d8fad135d0762f943a80ca7860c8e9fc
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]'
       - m_Id: 3868748ffde3b334bbd8b7acf4ed429e
